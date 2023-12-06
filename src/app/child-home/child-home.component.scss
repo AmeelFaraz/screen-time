@@ -54,7 +54,7 @@
 .schedule div{
   cursor: pointer;
   text-align: center;
-  background-color: lightgray;
+  background-color: green;
   //background-color: white;
   height: 20px;
   width: 23px;
@@ -138,7 +138,7 @@
   border-bottom-right-radius: 10px;
 }
 .cell-clicked {
-  background-color: green !important;
+  background-color: lightgray !important;
 }
 // end of schedule styling 
 
